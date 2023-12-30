@@ -2,7 +2,9 @@
  * 
  */
 /**
- * 
+ * @author pc77893
+ *
  */
-module BusTicketingManagement {
+module BusTicketReservationsystem {
+	requires java.sql;
 }
